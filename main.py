@@ -9,4 +9,4 @@ multiplica = multiplicacion(5, 7)
 print(multiplica)
 
 resultado = restar(7, 5)
-print(resultado)
+print("CAMBIO",+str(resultado))
