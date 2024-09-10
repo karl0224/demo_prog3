@@ -4,6 +4,8 @@ def restar(x, y):
 def multiplicacion(x, y):
     return x * y
 
+def division(x, y):
+    return x / y
 
 multiplica = multiplicacion(5, 7)
 print(multiplica)
